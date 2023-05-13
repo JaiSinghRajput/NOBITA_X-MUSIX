@@ -1,4 +1,4 @@
-from AnonX import app
+from nobitaX import app
 from AnonX.utils.database import get_cmode
 
 
