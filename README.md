@@ -1,3 +1,8 @@
+**𝓝𝓞𝓑𝓘 𝓥𝓘𝓢𝓘𝓣𝓞𝓡𝓢**
+<div>
+<img src="https://profile-counter.glitch.me/jaisingh007/count.svg">
+</div>
+
 <h2 align="center">
     ──「 Nobita x ᴍᴜsɪᴄ 」──
 </h2>
